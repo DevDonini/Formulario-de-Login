@@ -10,12 +10,14 @@ Para iniciar o projeto, basta abrir o arquivo `index.html` no navegador de sua p
 
 <h3>### Resultado final</h3>
 
-![light Mode](https://user-images.githubusercontent.com/106184297/224503247-d04dce6f-ecf4-4ef0-a352-995936fef2f1.png)
+![LIGHT MODE](https://user-images.githubusercontent.com/106184297/224504379-c32f8e6a-9546-4b9d-a1b8-9e225d643f18.png)
 <br><br>
-![dark mode](https://user-images.githubusercontent.com/106184297/224503251-a2891f9d-b3ee-4f1c-8226-c81100145db2.png)
+![DARK MODE](https://user-images.githubusercontent.com/106184297/224504404-ad10617c-436e-453e-b98c-ec3509a0319d.png)
+
 
 
 
 ---
 
 <h2>##### Codificado com amor por DevDonini ;)</h2>
+
